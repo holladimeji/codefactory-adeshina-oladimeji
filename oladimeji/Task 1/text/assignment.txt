@@ -1,0 +1,22 @@
+list out 20 html tags.
+--title tag (<title></title>) ---(block tag) This defines the document's the title that is shown in a browser title bar or a page's tab.
+--meta tag (<meta>) ---(block tag)The meta tag defines metadata about an HTML document. Metadata is a data(information) about data.
+--U (<u></u>) ---(inline tag) The u tag underline any character is used with.
+--h tag(h1 - h6) --- (block tag)this DEFINES THE MOST IMPORTANT heading.
+--p tag (<p></p>)---(block tag) The HTML <p> element represent a prargraph in html .
+--br <br> ---(inline tag) The break element.The HtMl <br> element produces a line break in text(carriage-return)
+--image tag (<img src="">) --- This stands for image source, which is used to specify the source of an image in HTML. (this is an inline code)
+--hr tag <hr> (Thematic break) (block tag) --- The <hr> tag defines a thematic break in an HTML page (e.g A shift of topic).it's offten displayed as a horizontal rule that seperate content.
+-Strong tag (<strong></strong>) --- This element indicates that its contents have strong importance, seriousness, or urgency.
+--list(<li></li>)---(block tag) HTML lists are used to present lists of information in well formed and semantic way. there are three different types of lists which are (ordered list, unordered list and discription list.) 
+--Video tag (<video src=""></video>)---(block tag) This stands for video source, which is use to specify  the source of an video html.
+--link (<a href=""></a>) ---The link tag defins the relationship between the current document and an external resource.(This is an inline tag)
+-comment (<!---->) --- Comment tag is used to insert comments in the source code. comments are not displayed in the browers.
+--small (<small></small>)(inline tag) ---The small tag defines smaller text.
+--time (<time></time>) ---(inline tag) The time tag defines a specific time  or datetime.
+--audio (<audio></audio>) ---(block tag) The audio tag is used to embed sound content in a document, such as music and other audio streams.
+--sub (<sub></sub>)---(inline tag) THE SUB tag defines subscript text. Subscript text appear half a character below the normal line.
+--Sup (<sup></sup>)(inline tag) ---This tag defines the superscript text. Superscript text appears half  character above the normal line.
+--i tag (<i>) ---(inline tag) The i tag defines a part of text in an alternate voice or mood. The content inside is typically displayed in italic.
+--big tag (<big>)---(inline tag) The big tag is used to make the text one size bigger but it's can not make the text larger than the browser maximum font size.
+--table (<table></table>)--- (BLOCK TAG) An html form is used to collect user inpute. The user input is mostly often sent to a server for processing.inpute types are button,checkbox,color,date,email,text,password,file,image,submit,range and so on.

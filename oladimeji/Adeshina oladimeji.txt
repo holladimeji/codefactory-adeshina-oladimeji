@@ -1,0 +1,15 @@
+Adeshina oladimeji
+
+
+
+Task 1
+
+Answer:  
+how to solve “Error:404: file could not be found.” In html.
+ 
+
+
+Task 2
+
+Answer: 
+how to create a responsive and flexible grid layout gallery
