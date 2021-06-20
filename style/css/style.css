@@ -1,0 +1,94 @@
+body {
+    background-color: #f4f4f4;
+    color: #555;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    line-height: 1.6em;
+} 
+
+a{
+    text-decoration: none;
+    color: #000;
+
+}
+
+a:hover {
+    color: gray;
+}
+
+a:active{
+    color: green;
+}
+
+/*a:visited {
+    color: blue;
+}*/
+
+.cap {
+    background-color: #000;
+}
+
+.link {
+    width: 80%;
+    margin: auto;
+    border: 1px solid gray;
+    padding-left: 10px;
+}
+
+.link a {
+    display: inline;
+}
+
+.t-b {
+    width: 100%;
+    margin: auto;
+    border: 1px solid #555;
+    padding: 10px;
+    text-align: center;
+    border-collapse: collapse;
+
+}
+.t-b td, .t-d th{
+    padding: 8px;
+
+}
+
+.t-b th{
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #04AA6D;
+    color: white;
+}
+
+
+.first-r {
+    background-color: blue;
+    color: #000;
+
+}
+
+.second-r {
+    background-color: aqua;
+    color: gray;
+}
+
+.third-r {
+    background-color:hotpink;
+    color: yellowgreen;
+}
+
+.forth-r {
+    background-color:rgb(71, 146, 180);
+    color: rgb(167, 245, 10);
+}
+
+.fifth-r {
+    background-color:rgb(199, 35, 43);
+    color: rgb(73, 25, 204);
+}
+
+.sixth-r {
+    background-color:rgba(241, 6, 183, 0);
+    color: rgba(123, 18, 221, 0.116);
+}

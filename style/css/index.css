@@ -1,0 +1,25 @@
+body {
+    background-color: #f4f4f4;
+    color: #555;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    line-height: 1.6em;
+} 
+
+a{
+    text-decoration: none;
+    color: #000;
+
+}
+
+a:hover {
+    color: gray;
+}
+
+a:active{
+    color: green;
+}
+h1{
+    background-color: white;
+    text-align: center;
+}
